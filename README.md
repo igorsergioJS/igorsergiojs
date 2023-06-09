@@ -12,10 +12,10 @@
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 # 🚀 Web Projects:
-[Guess The Movie](https://igorsergiojs.github.io/Guess-the-Movie/)
-[Secure Password Generator](https://igorsergiojs.github.io/igorsergiojs/passwordgen.html)
-[Don't Touch the Rain - Game ( My First Project)](https://igorsergiojs.github.io/lop_game/lopjg.html)
-[Numerical Computing Calculator (Under Development)](https://igorsergiojs.github.io/cnproject/html/index.html)
+[Guess The Movie](https://igorsergiojs.github.io/Guess-the-Movie/) <br>
+[Secure Password Generator](https://igorsergiojs.github.io/igorsergiojs/passwordgen.html) <br>
+[Don't Touch the Rain - Game ( My First Project)](https://igorsergiojs.github.io/lop_game/lopjg.html) <br>
+[Numerical Computing Calculator (Under Development)](https://igorsergiojs.github.io/cnproject/html/index.html) <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsergioJS&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
