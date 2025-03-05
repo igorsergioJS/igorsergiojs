@@ -16,6 +16,7 @@
 [Secure Password Generator](https://igorsergiojs.github.io/igorsergiojs/passwordgen.html) <br>
 [Don't Touch the Rain - Game ( My First Project)](https://igorsergiojs.github.io/lop_game/lopjg.html) <br>
 [Numerical Computing Calculator (Under Development)](https://igorsergiojs.github.io/cnproject/html/index.html) <br>
+[Material Control - 7 Wonders: Duel]([https://igorsergiojs.github.io/cnproject/html/index.html](https://igorsergiojs.github.io/7wondersduel-material-control/)) <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsergioJS&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
